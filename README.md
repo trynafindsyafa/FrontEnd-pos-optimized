@@ -2,10 +2,9 @@
 
 **Topik:** Optimasi Performa melalui Caching (Studi Kasus POS App)
 
-**Nama:** [NAMA LENGKAP ANDA]
-**NIM:** [NIM ANDA]
+**Nama:** [Ezar Athilla Musyafa]
+**NIM:** [V3424091]
 **Mata Kuliah:** Pemrograman Front-End
-**Dosen:** Bapak Nanang
 
 ---
 
