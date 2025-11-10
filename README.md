@@ -18,6 +18,8 @@ Teknik yang digunakan:
 3.  **Memoization:** Menggunakan `useMemo` di `App.jsx` untuk memastikan fungsi filtering hanya dipanggil ulang ketika `searchTerm` benar-benar berubah.
 
 ### A. Screenshot DevTools saat Cache Hit
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5293a80-38fb-44b7-8dad-b30aa683a475" />
+
 
 Pada DevTools Profiler, interaksi pertama (Cache Miss) menunjukkan waktu komputasi yang terukur (misalnya, 30-80ms) karena 10.000 data harus diproses. Namun, saat interaksi kedua (Cache Hit) dengan kata kunci yang sama terjadi, waktu komputasi fungsi filter di *Profiler* mendekati 0ms, karena data diambil dari `Map`.
 
