@@ -1,10 +1,8 @@
 # Laporan Praktikum Optimasi Performa React.js: Caching
 
-**Nama:** [Nama Anda]
-**NIM:** [NIM Anda]
+**Nama:** [Ezar Athilla Musyafa]
+**NIM:** [V3424091]
 **Mata Kuliah:** Pemrograman Front-End
-[cite_start]**Dosen:** Bapak Nanang [cite: 781]
-[cite_start]**Deadline:** 10 November 2025 [cite: 782]
 
 ---
 
@@ -53,4 +51,3 @@ Proyek Point of Sales (POS) ini dioptimalkan untuk menangani 10.000 data dummy. 
 **Apa keuntungan menggunakan library (seperti React Query) daripada custom cache?**
 [cite_start]*(Jawab di sini, sebutkan fitur *automatic invalidation*, *retry mechanism*, dan *state management* yang lebih komprehensif)*[cite: 776].
 
----
